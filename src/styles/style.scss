@@ -1,0 +1,15 @@
+.container {
+    max-width: 1200px;
+
+    .width-fit-content {
+        width: fit-content;
+    }
+
+    .cursor-pointer {
+        cursor: pointer;
+    }
+}
+
+.main-bg {
+    background: #fb5533 !important;
+}
